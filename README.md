@@ -30,7 +30,7 @@ To switch to this colorscheme while editing a file:
 :colo grb256
 ```
 
-## Acknolegements
+## Acknowledgements
 
 This colorscheme was not developed by me. You can find the original
 [here](https://github.com/garybernhardt/dotfiles/blob/master/.vim/colors/grb256.vim).
