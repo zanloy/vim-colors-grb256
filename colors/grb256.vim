@@ -5,7 +5,7 @@ let g:colors_name = "grb256"
 
 hi pythonSpaceError ctermbg=red guibg=red
 
-hi Comment ctermfg=darkgray
+hi Comment ctermfg=lightgrey
 
 hi StatusLine ctermbg=darkgrey ctermfg=white
 hi StatusLineNC ctermbg=black ctermfg=lightgrey
@@ -29,4 +29,3 @@ highlight DiffText term=reverse cterm=bold ctermbg=lightgray ctermfg=16
 highlight DiffDelete term=reverse cterm=bold ctermbg=lightred ctermfg=16
 
 highlight PmenuSel ctermfg=16 ctermbg=156
-
